@@ -8,4 +8,5 @@ SOTA facial expression recognition (FER) methods fail on test sets that have dom
 ![](https://github.com/zyh-uaiaaaa/Generalizable-FER/blob/main/assets/framework.png)
 
 ## Results
+![](https://github.com/zyh-uaiaaaa/Generalizable-FER/blob/main/assets/results.png)
 
