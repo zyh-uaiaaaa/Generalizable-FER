@@ -10,3 +10,15 @@ SOTA facial expression recognition (FER) methods fail on test sets that have dom
 ## Results
 ![](https://github.com/zyh-uaiaaaa/Generalizable-FER/blob/main/assets/results.png)
 
+**Citation**
+
+If you find our code useful, please consider citing our paper:
+
+```shell
+@inproceedings{zhang2024generalizable,
+  title={Generalizable Facial Expression Recognition},
+  author={Zhang, Yuhang and Zheng, Xiuqi and Liang, Chenyi and Hu, Jiani and Deng, Weihong},
+  booktitle={Computer Vision--ECCV 2024: 18th European Conference, Milan, Italy, September 29--October 4, 2024, Proceedings},
+  year={2024}
+}
+```
